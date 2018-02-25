@@ -1,0 +1,100 @@
+#1;Bill Gates;$86 B;61;Microsoft;United States;R.drawable.united_states
+#2;Warren Buffett;$75.6 B;86;Berkshire Hathaway;United States;R.drawable.united_states
+#3;Jeff Bezos;$72.8 B;53;Amazon.com;United States;R.drawable.united_states
+#4;Amancio Ortega;$71.3 B;81;Zara;Spain;R.drawable.spain
+#5;Mark Zuckerberg;$56 B;32;Facebook;United States;R.drawable.united_states
+#6;Carlos Slim Helu;$54.5 B;77;telecom;Mexico;R.drawable.mexico
+#7;Larry Ellison;$52.2 B;72;software;United States;R.drawable.united_states
+#8;Charles Koch;$48.3 B;81;diversified;United States;R.drawable.united_states
+#8;David Koch;$48.3 B;77;diversified;United States;R.drawable.united_states
+#10;Michael Bloomberg;$47.5 B;75;Bloomberg LP;United States;R.drawable.united_states
+#11;Bernard Arnault;$41.5 B;68;LVMH;France;R.drawable.france
+#12;Larry Page;$40.7 B;44;Google;United States;R.drawable.united_states
+#13;Sergey Brin;$39.8 B;43;Google;United States;R.drawable.united_states
+#14;Liliane Bettencourt;$39.5 B;94;L'Oreal;France;R.drawable.france
+#15;S. Robson Walton;$34.1 B;72;Wal-Mart;United States;R.drawable.united_states
+#16;Jim Walton;$34 B;68;Wal-Mart;United States;R.drawable.united_states
+#17;Alice Walton;$33.8 B;67;Wal-Mart;United States;R.drawable.united_states
+#18;Wang Jianlin;$31.3 B;62;real estate;China;R.drawable.china
+#19;Li Ka-shing;$31.2 B;88;diversified;Hong Kong;R.drawable.hong_kong
+#20;Sheldon Adelson;$30.4 B;83;casinos;United States;R.drawable.united_states
+#21;Steve Ballmer;$30 B;61;Microsoft;United States;R.drawable.united_states
+#22;Jorge Paulo Lemann;$29.2 B;77;beer;Brazil;R.drawable.brazil
+#23;Jack Ma;$28.3 B;52;e-commerce;China;R.drawable.china
+#24;Beate Heister & Karl Albrecht Jr.;$27.2 B;-;supermarkets;Germany;R.drawable.germany
+#24;David Thomson;$27.2 B;59;media;Canada;R.drawable.canada
+#26;Jacqueline Mars;$27 B;77;candy;United States;R.drawable.united_states
+#26;John Mars;$27 B;81;candy;United States;R.drawable.united_states
+#28;Phil Knight;$26.2 B;79;Nike;United States;R.drawable.united_states
+#29;Maria Franca Fissolo;$25.2 B;82;Nutella, chocolates;Italy;R.drawable.italy
+#29;George Soros;$25.2 B;86;hedge funds;United States;R.drawable.united_states
+#31;Ma Huateng;$24.9 B;45;internet media;China;R.drawable.china
+#32;Lee Shau Kee;$24.4 B;89;real estate;Hong Kong;R.drawable.hong_kong
+#33;Mukesh Ambani;$23.2 B;60;petrochemicals, oil & gas;India;R.drawable.india
+#34;Masayoshi Son;$21.2 B;59;internet, telecom;Japan;R.drawable.japan
+#35;Kjeld Kirk Kristiansen;$21.1 B;69;Lego;Denmark;R.drawable.denmark
+#36;Georg Schaeffler;$20.7 B;52;automotive;Germany;R.drawable.germany
+#37;Joseph Safra;$20.5 B;78;banking;Brazil;R.drawable.brazil
+#38;Michael Dell;$20.4 B;52;Dell computers;United States;R.drawable.united_states
+#38;Susanne Klatten;$20.4 B;55;BMW, pharmaceuticals;Germany;R.drawable.germany
+#40;Len Blavatnik;$20 B;59;diversified;United States;R.drawable.united_states
+#40;Laurene Powell Jobs;$20 B;53;Apple, Disney;United States;R.drawable.united_states
+#42;Paul Allen;$19.9 B;64;Microsoft, investments;United States;R.drawable.united_states
+#43;Stefan Persson;$19.6 B;69;H&M;Sweden;R.drawable.sweden
+#44;Theo Albrecht, Jr.;$18.8 B;66;Aldi, Trader Joe's;Germany;R.drawable.germany
+#45;Prince Alwaleed Bin Talal Alsaud;$18.7 B;62;investments;Saudi Arabia;R.drawable.saudi_arabia
+#46;Leonid Mikhelson;$18.4 B;61;gas, chemicals;Russia;R.drawable.russia
+#47;Charles Ergen;$18.3 B;64;satellite TV;United States;R.drawable.united_states
+#47;Stefan Quandt;$18.3 B;50;BMW;Germany;R.drawable.germany
+#49;James Simons;$18 B;79;hedge funds;United States;R.drawable.united_states
+#50;Leonardo Del Vecchio;$17.9 B;81;eyeglasses;Italy;R.drawable.italy
+#51;Alexey Mordashov;$17.5 B;51;steel, investments;Russia;R.drawable.russia
+#52;William Ding;$17.3 B;45;online games;China;R.drawable.china
+#53;Dieter Schwarz;$17 B;77;retail;Germany;R.drawable.germany
+#54;Ray Dalio;$16.8 B;67;hedge funds;United States;R.drawable.united_states
+#55;Carl Icahn;$16.6 B;81;investments;United States;R.drawable.united_states
+#56;Lakshmi Mittal;$16.4 B;66;steel;India;R.drawable.india
+#57;Serge Dassault;$16.1 B;92;diversified;France;R.drawable.france
+#57;Vladimir Lisin;$16.1 B;60;steel, transport;Russia;R.drawable.russia
+#59;Gennady Timchenko;$16 B;64;oil, gas;Russia;R.drawable.russia
+#60;Wang Wei;$15.9 B;46;package delivery;China;R.drawable.china
+#60;Tadashi Yanai;$15.9 B;68;fashion retail;Japan;R.drawable.japan
+#62;Charoen Sirivadhanabhakdi;$15.8 B;73;drinks, real estate;Thailand;R.drawable.thailand
+#63;Francois Pinault;$15.7 B;80;luxury goods;France;R.drawable.france
+#64;Hinduja family;$15.4 B;-;diversified;United Kingdom;R.drawable.united_kingdom
+#65;David & Simon Reuben;$15.3 B;74;investments, real estate;United Kingdom;R.drawable.united_kingdom
+#66;Donald Bren;$15.2 B;84;real estate;United States;R.drawable.united_states
+#66;Alisher Usmanov;$15.2 B;63;steel, telecom, investments;Russia;R.drawable.russia
+#68;Lee Kun-Hee;$15.1 B;75;Samsung;South Korea;R.drawable.south_korea
+#69;Thomas & Raymond Kwok;$15 B;-;real estate;Hong Kong;R.drawable.hong_kong
+#69;Joseph Lau;$15 B;65;real estate;Hong Kong;R.drawable.hong_kong
+#69;Gina Rinehart;$15 B;63;mining;Australia;R.drawable.australia
+#72;Azim Premji;$14.9 B;71;software services;India;R.drawable.india
+#73;Marcel Herrmann Telles;$14.8 B;67;beer;Brazil;R.drawable.brazil
+#74;Vagit Alekperov;$14.5 B;66;oil;Russia;R.drawable.russia
+#75;Mikhail Fridman;$14.4 B;53;oil, banking, telecom;Russia;R.drawable.russia
+#75;Abigail Johnson;$14.4 B;55;money management;United States;R.drawable.united_states
+#77;Pallonji Mistry;$14.3 B;87;construction;Ireland;R.drawable.ireland
+#77;Vladimir Potanin;$14.3 B;56;metals;Russia;R.drawable.russia
+#79;Wang Wenyin;$14 B;49;mining, copper products;China;R.drawable.china
+#80;Elon Musk;$13.9 B;45;Tesla Motors;United States;R.drawable.united_states
+#80;Stefano Pessina;$13.9 B;75;drugstores;Italy;R.drawable.italy
+#82;German Larrea Mota Velasco;$13.8 B;63;mining;Mexico;R.drawable.mexico
+#82;Thomas Peterffy;$13.8 B;72;discount brokerage;United States;R.drawable.united_states
+#84;Iris Fontbona;$13.7 B;74;mining;Chile;R.drawable.chile
+#84;Dilip Shanghvi;$13.7 B;61;pharmaceuticals;India;R.drawable.india
+#86;Dietrich Mateschitz;$13.4 B;72;Red Bull;Austria;R.drawable.austria
+#87;Harold Hamm;$13.3 B;71;oil & gas;United States;R.drawable.united_states
+#87;Robin Li;$13.3 B;48;internet search;China;R.drawable.china
+#89;Andrey Melnichenko;$13.2 B;45;coal, fertilizers;Russia;R.drawable.russia
+#90;Rupert Murdoch;$13.1 B;86;newspapers, TV network;United States;R.drawable.united_states
+#90;Heinz Hermann Thiele;$13.1 B;76;brakes;Germany;R.drawable.germany
+#92;Steve Cohen;$13 B;60;hedge funds;United States;R.drawable.united_states
+#92;Patrick Drahi;$13 B;53;telecom;France;R.drawable.france
+#94;Henry Sy;$12.7 B;92;SM Investments Corporation;Philippines;R.drawable.philippines
+#95;Charlene de Carvalho-Heineken;$12.6 B;62;Heineken;Netherlands;R.drawable.netherlands
+#96;Philip Anschutz;$12.5 B;77;investments;United States;R.drawable.united_states
+#96;Ronald Perelman;$12.5 B;74;leveraged buyouts;United States;R.drawable.united_states
+#96;Hans Rausing;$12.5 B;91;packaging;Sweden;R.drawable.sweden
+#96;Carlos Alberto Sicupira;$12.5 B;69;beer;Brazil;R.drawable.brazil
+#100;Klaus-Michael Kuehne;$12.4 B;79;shipping;Germany;R.drawable.germany
